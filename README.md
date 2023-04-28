@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Felipe.</h2>
 
-<!--
-**Felipe8297/felipe8297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m not working at the moment.
+- 🌱 I’m currently learning more about ReactJS, NextJS, TypeScript and Jest.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/felipe8297/">LinkedIn</a>
 
-Here are some ideas to get you started:
+<h2 align="center">🚀 Some Tools I Use</h2>
+<br/>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+</p>
+
