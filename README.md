@@ -7,17 +7,17 @@
 <h2 align="center">🚀 Some Tools I Use</h2>
 <br/>
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-    <img src="./assets/styled-components.png" alt="components" width="40" height="40" />
-    <img src="./assets/html.png" alt="html" width="40" height="40" />
-    <img src="./assets/sass.png" alt="sass" width="40" height="40" />
-    <img src="./assets/css3.png" alt="css3" width="40" height="40" />
-    <img src="./assets/vite.png" alt="vite" width="40" height="40" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJs"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJs"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/>
+    <img src="./assets/styled-components.png" alt="components" width="40" height="40" alt="Styled Components"/>
+    <img src="./assets/html.png" alt="html" width="40" height="40" alt="HTML"/>
+    <img src="./assets/sass.png" alt="sass" width="40" height="40" alt="Sass"/>
+    <img src="./assets/css3.png" alt="css3" width="40" height="40" alt="CSS"/>
+    <img src="./assets/vite.png" alt="vite" width="40" height="40" alt="ViteJs"/>  
 </p>
 <br>
 <br>
