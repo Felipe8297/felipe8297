@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Felipe.</h2>
 
 - 🔭 I’m not working at the moment.
-- 🌱 I’m currently learning more about ReactJS, NextJS, TypeScript and Jest.
+- 🌱 I’m currently learning more about React, React Native, Next.js and TypeScript.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/felipe8297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20" align="center"></a> 
 
 <h2 align="center">🚀 Some Tools I Use</h2>
